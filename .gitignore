@@ -15,3 +15,7 @@
 
 #Unity3D Generated File On Crash Reports
 sysinfo.txt
+
+[diff "zip"]
+binary = True
+textconv = python ./git_diff_xlsx.py
